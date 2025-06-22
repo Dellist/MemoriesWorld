@@ -361,3 +361,24 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Assets
+/Assets/New Terrain Layer_Generated Maps
+/Assets/Scenes
+/Assets/Settings
+/Assets/TextMesh Pro
+/Assets/TextMesh Pro/Fonts
+/Assets/TextMesh Pro/Resources
+/Assets/TextMesh Pro/Resources/Sprite Assets
+/Assets/TextMesh Pro/Resources/Style Sheets
+/Assets/TextMesh Pro/Shaders
+/Assets/TextMesh Pro/Sprites
+/Assets/TutorialInfo
+/Assets/TutorialInfo/Icons
+/Assets/Unity.VisualScripting.Generated/VisualScripting.Flow
+/Assets/_Recovery
+/GeneratedAssets
+/GeneratedAssets/33574177e5ab53246b23a507f6288553_deleted
+/GeneratedAssets/5268a3ebf5294e247a143596b289b8eb_deleted
+/GeneratedAssets/592f0075b09439349836f24dc560ed40_deleted
+/Library
+/ProjectSettings
